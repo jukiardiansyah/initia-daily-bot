@@ -14,7 +14,7 @@ import { doQuest } from "./index.js";
     });
 
     const job = new CronJob(
-      "38 * * * *",
+      "1,33 1,13 * * *",
       () => {
         twisters.put("title", {
           active: false,
