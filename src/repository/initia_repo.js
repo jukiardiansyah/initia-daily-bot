@@ -56,7 +56,7 @@ async function getStageInfo() {
 }
 async function getReferalPoint() {
   const response = await fetch(
-    "https://xp-api.initiation-1.initia.xyz/leaderboard/rankings/init1gadzrjcp3ef90yka3sz2r6tf4wrjdhe2qr0hyp",
+    "https://xp-api.initiation-1.initia.xyz/leaderboard/rankings/init1eeg7dw87yqkutmvl880l49gzv4g6mq59z5sj3r",
     {
       headers: {
         accept: "application/json, text/plain, */*",

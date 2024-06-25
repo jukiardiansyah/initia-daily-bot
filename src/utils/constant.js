@@ -44,9 +44,9 @@ class AppConstant {
 
   //validator
   static OMNINODEVALIDATORADDRESS =
-    "initvaloper1m07fvq8flvc3ltjlgk30nznfdjf4hx9nwcpdy9";
+    "initvaloper1ultt4jk0us0rwm42mew05zcsnv6s5zaufrufvw";
   static NODESGURUVALIDATORADDRESS =
-    "initvaloper1x7j4d9ccds889yxecuylp803d0h6lrfnv30k9y";
+    "initvaloper1lxn0k3zv568m89hvman69tjc5vmtwle2erux5a";
 }
 
 export { AppConstant };
